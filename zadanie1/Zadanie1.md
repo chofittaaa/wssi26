@@ -16,7 +16,7 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 - symboliczne całkowanie funkcji,
 - kierowanie samochodem
 
-Moim zdaniem, następujące zadania wymagają inteligencji od człowieka:
+**Moim zdaniem, następujące zadania wymagają inteligencji od człowieka:
 tłumaczenie tekstu,
 symboliczne obliczanie pochodnych funkcji,
 odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
@@ -24,5 +24,5 @@ odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
 komponowanie muzyki,
 symboliczne całkowanie funkcji,
 kierowanie samochodem. 
-  
+Te zadania wymagają ludzkiej inteligencji, ponieważ opierają się na logicznym myśleniu, intuicji oraz kreatywności. Niezbędne jest rozumienie kontekstu, pewnych emocji, a nie tylko ślepe wykonywanie sztucznych reguł. Dotyczy to zarówno operacji matematycznych, językowych, jak i działań twórczych orzaz szybkiego podejmowania decyzji w zmieniających się warunkach - na przykład  na drodze.**
 
